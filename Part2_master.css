@@ -1,6 +1,11 @@
 div{
     background-color: aquamarine;
+    display: block;
+    border: orange 8px dotted;
 }
 span{
     background-color: palevioletred;
+}
+.redtext{
+    color: red;
 }

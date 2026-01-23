@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.eye{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    
+}

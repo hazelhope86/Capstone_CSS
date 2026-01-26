@@ -1,12 +1,44 @@
 body{
     background-color: yellow;
-    padding-top: 30px;
-    padding-left: 30px;
+    margin: 0;
+    padding: 0;
 }
 .eye{
     background-color: white;
     width: 150px;
     height: 150px;
-    margin-right: 20px;
-    
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.pupal{
+    background-color:black;
+    width: 70px;
+    height: 70px;
+}
+#eye1{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+#eye2{
+    position: absolute;
+    top: 30px;
+    left: 230px;
+}
+#mouth{
+    background-color: black;
+    width: 430px;
+    height: 300px;
+    position: absolute;
+    top: 260px;
+    left: 30px;
+    padding-top: 40px;
+}
+.teeth{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top:30px;
+    left: 40px;
 }
